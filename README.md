@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1fGg03EdBAxjFumGHHNhMrz2sMLLH04FK
 * Cuda 10.1
 * Detectron 2
  
-You need to create a dictory names 'checkpoints' to save chekpoint.  
+You need to create a dictory names 'output' to save chekpoint.  
 Download Detectron2 by follow the github  
 https://github.com/facebookresearch/detectron2
   
@@ -36,7 +36,8 @@ python train.py
 Test the model  
 ```
 python test.py
-```
+```  
+In test.py, you can use visualize function by uncommand parts of code.
 
 ## Reference
 http://host.robots.ox.ac.uk/pascal/VOC/   
