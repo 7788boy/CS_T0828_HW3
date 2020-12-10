@@ -41,4 +41,4 @@ python test.py
 ## Reference
 http://host.robots.ox.ac.uk/pascal/VOC/   
 
-###### tags: `Instance segmentation` `Deep learning` `NCTU CS` `Detectron`
+###### tags: `Instance segmentation` `Deep learning` `NCTU CS` `Detectron` `MASK-RCNN`
