@@ -1,4 +1,4 @@
-# Project: Object detection
+# Project: Instance segmentation
 
 ## Overview
 The target of this homework is Instance segmentation.  
